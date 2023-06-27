@@ -1,0 +1,43 @@
+body{
+    justify-content: center;
+    background-color: chocolate;
+}
+#box{
+    width:500px;
+    height:270px;
+    background-position: center;
+    text-align: center;
+    background-color: white;
+    padding:20px;
+    border-radius: 10%;
+    box-shadow: 0 25px 31px rgba(0,0,0,0.5);
+   
+
+}
+#quote{
+    color:black;
+    font-size: 25px;
+   
+}
+#author
+{
+    color:rgb(196, 138, 31);
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color:blueviolet;
+}
+#button{
+   width:150px;
+   height:50px;
+   background-color: #262626;
+   color:#fff;
+   border-radius: 5px;
+ border: none;
+ outline:none;
+   
+
+}
+#space{
+    padding-top: 200px;
+}
